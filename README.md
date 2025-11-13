@@ -1,5 +1,5 @@
 English | [Indonesian](https://github.com/nunocoracao/blowfish/blob/main/README.id.md) | [简体中文](https://github.com/nunocoracao/blowfish/blob/main/README.zh-cn.md) | [日本語](https://github.com/nunocoracao/blowfish/blob/main/README.ja.md)
-# Blowfish
+# Blowfficious - a semantic sarcastic face-plastic for hogo
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6e5256d4-3148-4d69-879c-310341020fe9/deploy-status)](https://app.netlify.com/sites/snazzy-dango-efb2ec/deploys)
 [![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=0.87.0&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.87.0)
 [![GitHub](https://img.shields.io/github/license/nunocoracao/blowfish)](https://github.com/nunocoracao/blowfish/blob/main/LICENSE)
@@ -54,7 +54,7 @@ Blowfish is designed to be a powerful, lightweight theme for [Hugo](https://gohu
 - Mathematical notation using KaTeX
 - SVG icons from FontAwesome 6
 - Automatic image resizing using Hugo Pipes
-- Heading anchors, Tables of Contents, Code copy, Buttons, Badges and more
+- Heading anchors, Tables of Contents, Code copy, Buttons,Badges and more
 - HTML and Emoji support in articles 🎉
 - SEO friendly with links for sharing to social media
 - Fathom Analytics and Google Analytics support
